@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杨森 - Yang Sen on 杨森 - Yang Sen</title>
+    <link>https://jay-pee.github.io/</link>
+    <description>Recent content in 杨森 - Yang Sen on 杨森 - Yang Sen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Philip Janssen</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post! Why this website?</title>
+      <link>https://jay-pee.github.io/post/first-post/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jay-pee.github.io/post/first-post/</guid>
+      <description>&lt;p&gt;So, finally a website! In the beginning I want share the reasons why I started this kind of blog. As I mentioned in the introduction, I intendet to to write here about some things that are on my mind and I read about, so that I can reflect on them and deepening the understanding. I think it helps alot to get your mind straight by writing a text about it. I was never a good auther or writer, but in my opinion this doesn&amp;rsquo;t matter. More in general, if you have talent for some stuff, sure it is easier to do, but if not you should not stick your head in the sand and never try. Get your ass up and work at your weakness. I know it is common sense but I have to tell this again. You grow so most in the situations where you not feeling confortable. When you overcome this challenges you will feel much more selfconfident and learn alot. This is a lesson that I learned quite late, but am grateful that I know it now. Another reason is to have kind of a dairy where I can later look up texts. My brain throws aways stuff fast when it is not in use anymore. So for that I want to install this aid here.&lt;/p&gt;
+
+&lt;p&gt;What kind of topics do I want to takel first here? I made a short list.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basics of Beamforming (Signal Processing)&lt;/li&gt;
+&lt;li&gt;Podcast (starting with &amp;ldquo;Beste Freundinnen&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Chinese (How to learn characters, how to set up anki)&lt;/li&gt;
+&lt;li&gt;HowTos (e.g. setup ESP and Raspberry for Smart Home)&lt;/li&gt;
+&lt;li&gt;Drone Experience&lt;/li&gt;
+&lt;li&gt;Short&lt;/li&gt;
+&lt;li&gt;Supply Chain Management&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Freiraum - Hackerspace Ulm e.V.</title>
+      <link>https://jay-pee.github.io/project/frrm/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jay-pee.github.io/project/frrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Madarine</title>
+      <link>https://jay-pee.github.io/project/chinese/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jay-pee.github.io/project/chinese/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
