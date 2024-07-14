@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Personal website of Philip Janssen'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,8 +30,8 @@ marketing:
 header:
   navbar:
     enable: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
@@ -51,9 +51,9 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
