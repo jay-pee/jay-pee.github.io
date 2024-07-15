@@ -51,9 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "yangsen.de"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sofware engineer who loves playing around with my VSCode setup. Passionate about Sichuan cuisine 🍜🇨🇳 and exploring the world on my bike 🚲. Guilty pleasure: Video games 👾.
