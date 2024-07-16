@@ -54,4 +54,8 @@ highlight_name: true
 website: "yangsen.de"
 ---
 
-Sofware engineer who loves playing around with my VSCode setup. Passionate about Sichuan cuisine 🍜🇨🇳 and exploring the world on my bike 🚲. Guilty pleasure: Video games 👾.
+Sofware engineer who loves playing around with my VSCode setup.
+
+Passionate about Sichuan cuisine 🍜🇨🇳 and exploring the world on my bike 🚲.
+
+Guilty pleasure: Video games 👾.
