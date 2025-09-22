@@ -1,0 +1,117 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+
+baseURL: 'https://yangsen.de/'
+title: "杨森 yangsen"
+params:
+  env: production
+  description: "Personal website of Philip Janssen"
+  author: Philip Janssen
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: true
+
+  # Display Settings
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: true
+  showtoc: true
+  tocopen: false
+
+  # Profile Mode Settings
+  profileMode:
+    enabled: true
+    title: Philip Janssen
+    subtitle: "I ❤️ programming, Mandarin and China. Tinkering with IoT Devices"
+    imageUrl: "images/avatar.jpg"
+    imageTitle: Profile photo
+    buttons:
+      - name: Posts
+        url: /posts
+      - name: Tags
+        url: /tags
+      - name: About
+        url: /about
+
+# Add menu at root level
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+
+# Homepage Settings
+homeInfoParams:
+  Title: "Welcome 👋"
+  Content: "This is my personal blog where I share my thoughts and experiences."
+
+# Social Icons
+socialIcons:
+  - name: github
+    url: "https://github.com/jay-pee"
+  # Add other social media as needed
+
+# Edit Post Settings
+editPost:
+  URL: "https://github.com/jay-pee/jay-pee.github.io/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
+
+# Language Settings
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+# Build Settings
+enableGitInfo: false
+enableEmoji: true
+enableRobotsTXT: true
+build:
+  writeStats: true
+
+# Taxonomies
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+
+# Markup Settings
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true  # Allows raw HTML in markdown files
+  _merge: deep
+
+# Other Advanced Settings
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
+  _merge: deep
+
+# Permalinks
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+
+# Theme Settings
+theme: "PaperMod"  # Add this if not already present
