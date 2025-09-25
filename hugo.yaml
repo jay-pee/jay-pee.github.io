@@ -27,16 +27,17 @@ params:
   profileMode:
     enabled: true
     title: Philip Janssen
-    subtitle: "I ❤️ programming, Mandarin and China. Tinkering with IoT Devices"
+    subtitle: "I ❤️ programming, bike packing, Chinese food"
     imageUrl: "images/avatar.jpg"
     imageTitle: Profile photo
-    buttons:
-      - name: Posts
-        url: /posts
-      - name: Tags
-        url: /tags
-      - name: About
-        url: /about
+
+  # Social Icons
+  socialIcons:
+    - name: github
+      url: "https://github.com/jay-pee"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/philip-janssen-193548326/"
+    # Add other social media as needed
 
 # Add menu at root level
 menu:
@@ -58,12 +59,6 @@ menu:
 homeInfoParams:
   Title: "Welcome 👋"
   Content: "This is my personal blog where I share my thoughts and experiences."
-
-# Social Icons
-socialIcons:
-  - name: github
-    url: "https://github.com/jay-pee"
-  # Add other social media as needed
 
 # Edit Post Settings
 editPost:
