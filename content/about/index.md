@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: About
 date: 2024-05-23
 type: page
 hideMeta: true
